@@ -25,9 +25,9 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: "YSF | Portfolio",
-  description: "Modern portfolio of YSF - Web, App, Game, and Server Developer.",
-  keywords: ["YSF", "Portfolio", "Developer", "Web Developer", "Next.js", "React"],
+  title: "1nOnlyAmrit | Portfolio",
+  description: "Modern portfolio of 1nOnlyAmrit - Web, App, Game, and Server Developer.",
+  keywords: ["1nOnlyAmrit", "Portfolio", "Developer", "Web Developer", "Next.js", "React"],
 };
 
 export default function RootLayout({
