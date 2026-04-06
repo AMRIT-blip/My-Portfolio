@@ -68,7 +68,7 @@ export function Navbar() {
 
             <div className="mx-auto w-full px-6 sm:px-8 md:px-12 max-w-[1200px] flex items-center justify-between">
                 <a href="#home" className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-cyan-500">
-                    YSF
+                    1nOnlyAmrit
                 </a>
 
                 <nav className="hidden md:flex items-center gap-8">
