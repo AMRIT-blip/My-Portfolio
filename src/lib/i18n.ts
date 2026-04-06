@@ -2,7 +2,7 @@ export const translations = {
     en: {
         hero: {
             hi: "Hi, I'm",
-            name: "YSF",
+            name: "1nOnlyAmrit!",
             roles: ["Web Dev", "App Dev", "Game Dev", "Discord Bot Dev", "Server Dev"],
             contactMe: "Contact Me",
             hireMe: "Hire Me",
