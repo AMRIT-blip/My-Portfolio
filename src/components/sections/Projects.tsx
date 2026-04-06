@@ -22,7 +22,7 @@ export function Projects() {
     const [searchQuery, setSearchQuery] = useState("");
     const [isMobile, setIsMobile] = useState(false);
 
-    const githubUsername = process.env.NEXT_PUBLIC_GITHUB_USERNAME || "YSFVoid";
+    const githubUsername = process.env.NEXT_PUBLIC_GITHUB_USERNAME || "1nOnlyAmritVoid";
     const pinnedRaw = process.env.NEXT_PUBLIC_PINNED_REPOS || "";
     const pinnedList = useMemo(() => pinnedRaw.split(",").filter(Boolean), [pinnedRaw]);
     const hasFetched = useRef(false);
