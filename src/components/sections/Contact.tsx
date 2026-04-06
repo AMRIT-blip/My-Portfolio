@@ -65,7 +65,7 @@ export function Contact() {
                     from_name: formData.name,
                     from_email: formData.email,
                     message: formData.message,
-                    to_email: 'ysfvoiddev@gmail.com'
+                    to_email: 'ar9090655@gmail.com'
                 },
                 emailJsPublicKey
             );
@@ -101,11 +101,11 @@ export function Contact() {
                     <div className="flex flex-col gap-6">
                         {/* Direct Email Button */}
                         <a
-                            href="mailto:ysfvoiddev@gmail.com"
+                            href="ar9090655@gmail.com"
                             className="flex items-center justify-center gap-3 bg-gradient-to-r from-purple-600 to-indigo-600 text-white font-bold py-4 rounded-xl hover:scale-105 transition-transform shadow-lg shadow-purple-500/30"
                         >
                             <Mail className="w-5 h-5" />
-                            ysfvoiddev@gmail.com
+                            ar9090655@gmail.com
                         </a>
 
                         {/* Divider */}
